@@ -39,7 +39,7 @@ fi
 # --- DISPLAY ---
 
 echo "=================================================="
-echo "      OPEN SOURCE AUDIT - SYSTEM IDENTITY REPORT   "
+echo "   OPEN SOURCE AUDIT - SYSTEM IDENTITY REPORT"
 echo "=================================================="
 echo ""
 
@@ -63,5 +63,5 @@ echo " (GPL v2). Source code is freely available."
 echo ""
 
 echo "=================================================="
-echo "        End of System Identity Report             "
+echo "        End of System Identity Report"
 echo "=================================================="
